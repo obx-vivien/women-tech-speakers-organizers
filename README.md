@@ -1167,6 +1167,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Rome, Italy
 - Languages besides English - Italian
 
+#### Vivien Dollinger
+
+- [@TwitterHandle](https://twitter.com/mobile_n_games)
+- [ObjectBox Database](http://objectbox.io/)
+- Topics - Edge Computing, Open Source, Startups
+- Location - Berlin, Germany
+- Languages besides English - German
+
 #### Ingrid Epure
 
 - [@ingridepure](https://twitter.com/ingridepure)
